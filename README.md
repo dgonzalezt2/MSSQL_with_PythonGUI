@@ -22,7 +22,7 @@ One you install microsoft SQL SERVER run the file `/DatabaseSetup/TableCreator.s
 Go to `/GUI/Database/conexion.py` and edit this line:
 
 ```py
-connection = pyodbc.connect('DRIVER={SQL Server};SERVER=<SERVERCONNNECTION>;DATABASE=<C>;Trusted_Connection=yes;')
+connection = pyodbc.connect('DRIVER={SQL Server};SERVER=<SERVERCONNNECTION>;DATABASE=<SERVERCONNNECTION>;Trusted_Connection=yes;')
 ```
 
 The database is the SERVERCONNNECTION created for this project and the SERVERCONNNECTION select your database and click on propierties and copy the user.
