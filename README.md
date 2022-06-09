@@ -15,7 +15,7 @@ To install Microsoft SQL Server please follow the instructions provide by Micros
 
 #### Tables 
 
-One you install microsoft SQL SERVER run the file `TableCreator.sql` to create all the required tables and relationships for the project, once the operation is done please run `ALL_INSERTS.sql` to add default values provied by the teacher
+One you install microsoft SQL SERVER run the file `/DatabaseSetup/TableCreator.sql` to create all the required tables and relationships for the project, once the operation is done please run `/DatabaseSetup/ALL_INSERTS.sql` to add default values provied by the teacher
 
 #### Connect with python
 
