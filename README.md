@@ -1,6 +1,14 @@
 # MSSQL_with_PythonGUI
 Database build with MSSQL connected with python using tkinter user Interface
 
+## Members
+
+* David Gonzalez Tamayo
+* Hobarlan Uparela Arroyo
+* Juan Esteban Castro Garcia
+* Andres Leonardo Rojas Peña
+* Daniel Pineda Velez
+
 ## Setup
 
 ### Install python
